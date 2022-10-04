@@ -1,0 +1,7 @@
+[
+    {"Zona":"CABA Norte $", "Precio": 700},
+    {"Zona":"CABA Sur $", "Precio": 300},
+    {"Zona":"GBA Norte $", "Precio": 900},
+    {"Zona":"GBA Sur $", "Precio": 400},
+    {"Zona":"GBA Oeste $", "Precio": 600}
+]
